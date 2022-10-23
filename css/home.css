@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 header nav ul {
     display: flex;
@@ -525,36 +526,61 @@ img{
            
         }
 footer{
-    height: 463px;
+    height: 450px;
     background-color:rgb(20, 49, 82);
     position: relative;
     }
     .fbox{
-        /* position: fixed; */
         height: 200px;
-        width: 1500px;
-        margin: 80px auto 180px;
-        /* background-color: #F58A07; */
+        width: 90%;
+        margin: 50px auto;
     }
 .top{
+    width: 80%;
     display: flex;
     justify-content: space-around;
     color: white;
-    line-height: 50px;
-    margin: 20px 50px;
+    line-height: 40px;
+    margin: 10px 40px;
     padding: 40px 40px;
      }
-.top input{
+#h1{
+    font-size: 2rem;
+    font-weight: 200;
+    margin: 30px 0px;
+}
+/* #logo{
     position: relative;
-/* position:flex; */
+    display: flex;
+    z-index: 1;
+
+} */
+#logo2{
+    color: gray;
+    font-weight: 900;
+    font-size: 2.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#com{
+padding: 30px;
+}
+#con{
+padding: 30px;
+}
+#join{
+    padding: 30px;
+}
+#join input{
+    position: relative;
 background-color: white;
 color: gray;
 width: 222px;
 height: 19px;
 border-radius: 31px;
 padding: 10px;
+margin: 30px 0px;
 }
-.top button{
+#join button{
 background-color: #F58A07;
 color: white;
 text-decoration: none;
@@ -567,28 +593,11 @@ border-radius: 31px;
     align-content: flex-end;
     justify-content: space-between;
     color: white;
-    bottom: 0%;
-    max-width: 1200px;
-    margin: 20px auto;
+    width: 70%;
+    /* max-width: 1200px; */
+    margin: 0px auto;
 }
-/* .bottom h1{
-    width: 53px;
-height: 144px;
-background: #F58A07;
-left: 0%;
-z-index: 1;
-border-top-right-radius: 20px;
-} */
-/* .bottom h2{
-    width: 53px;
-    height: 287px;
-    background: #F58A07;
-    right: 0%;
-    z-index: 1;
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 20px;
-} */
-.social .fab{
+.social i{
 margin-right: 1rem;
 border: 2px #fff solid;
 width: 20px;
@@ -599,7 +608,7 @@ color: white;
 #h5{
     position: absolute;
     height: 200px;
-    width: 80px;
+    width: 60px;
     background-color: #F58A07;
     position: absolute;
     bottom: 0;
@@ -610,7 +619,7 @@ color: white;
 #h6{
     position: absolute;
     height: 300px;
-    width: 80px;
+    width: 60px;
     background-color: #F58A07;
     right:0;
     top: 40px;
