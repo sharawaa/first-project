@@ -33,23 +33,59 @@ header nav ul a{
 }
 .contact{
     display: flex;
-    width: 60%;
+    width: 70%;
     margin: 20px auto;
     flex: 1;
+    /* max-width: 1200px; */
 }
 .contact1{
     display: flex;
     flex-direction: column;
+    line-height: 50px;
+    /* margin: 0px 60px; */
+}
+.cn11 h1{
+    font-size: 2rem;
 }
 .cn12{
     display: flex;
     flex-direction: column; 
+
+}
+.cn12 input{
+    background-color: rgb(252, 243, 231);
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px 0px;
+}
+/* #in4{
+    padding: 30px;
+} */
+.cn13 button{
+        background-color: #F58A07;
+        color: white;
+        text-decoration: none;
+        height: 40px;
+        width: 106px;
+        border-radius: 31px;
+        margin-top: 40px;
+        }
+
+.contact2{
+    /* margin: 0px 60px; */
 }
 
 .cn21{
     display: flex;
+    margin: 0px 40px;
+    line-height: 50px;
 }
-
+.cn22 img{
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
 
 
 footer{

@@ -60,12 +60,18 @@ text-decoration: none;
 padding: 10px;
 border-radius: 20px;
 }
+.careers12{
+    background-color: #F58A07; 
+    background-blend-mode: multiply;
+}
 .careers12 img{
     position: absolute;
+    background-color: #F58A07;
+    background-image: url(/images/Image\ \(6\).png);
 height: 550px;
 width: 620px;
 border-radius: 50px;
-
+background-blend-mode: multiply;
 }
 .box1{
 position: absolute;
