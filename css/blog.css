@@ -34,9 +34,9 @@ header nav ul a{
 }
 .neg-w{
     position: relative;
-    background-color: aqua;
+    background-color: #DCEAF5;;
     width: 100%;
-    height: 40vh;
+    height: 749px;
 }
 .neg{
     display: flex;
@@ -52,12 +52,30 @@ header nav ul a{
 #p1{
     margin: 10px 20px;
 }
+
 .neg1 h1{
-    font-size: 3rem;
+    width: 527px;
+height: 216px;
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 72px;
+letter-spacing: -0.03em;
+color: #1D3444;
+margin-top: 30px;
 }
+
 .neg1 p{
-    margin: 20px 0px;
+    width: 559px;
+    height: 90px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+    margin-bottom: 30px;
 }
+    
 .neg1 a{
     text-decoration: none;
     color: #f58a07;
@@ -68,16 +86,19 @@ header nav ul a{
 }
 .neg1-1{
     display: flex;
+    margin-top: 70px;
 }
 .neg2 img{
     position: relative;
     width: 600px;
-    height: 400px;
+    height: 493px;
     border-radius: 20px;
+    margin-top: 70px;
+    margin-left: 70px;
 }
 
 .hoyr{
-    width: 70%;
+    width: 90%;
    margin: 10px auto;
    max-width: 1200px;
 }
@@ -89,10 +110,16 @@ header nav ul a{
     
 }
 .hoyr1 h1{
-    margin-right: 20px;
-    font-size: 2.5rem;
-    color: blue;
-    justify-content: flex-start;
+    width: 453px;
+height: 56px;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+letter-spacing: -0.03em;
+text-transform: capitalize;
+color: #0D1317;
+margin-left: -20px;
 }
 .hoyr2{
     display: flex;
@@ -256,6 +283,7 @@ footer{
 .social{
     display: flex;
     justify-content: space-around;
+    width: 200px;
 }
 #h5{
     position: absolute;

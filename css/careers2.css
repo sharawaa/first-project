@@ -177,6 +177,7 @@ border-radius: 31px;
 .social{
     display: flex;
     justify-content: space-around;
+    width: 200px;
 }
 #h5{
     position: absolute;

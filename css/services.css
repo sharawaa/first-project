@@ -35,8 +35,8 @@ header nav ul a{
 .careers1{
 display: flex;
 height: 550px;
-width: 80%;
-max-width: 1200px;
+width: 85%;
+max-width: 1440px;
 margin: 50px auto;
 }
 .careers11{
@@ -47,7 +47,7 @@ justify-content: center;
 /* line-height: 60px; */
 }
 .careers11 h1{
-font-size: 4rem;
+font-size: 48px;
 }
 .careers11 p{
 margin: 30px 0px;
@@ -72,7 +72,7 @@ color: white;
     position: absolute;
     background-color: #F58A07;
     height: 550px;
-    width: 100px;
+    width: 180px;
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
     mix-blend-mode: multiply;
@@ -83,9 +83,9 @@ color: white;
 .careers2{
 display: flex;
 height: 550px;
-width: 80%;
+width: 85%;
 margin: 150px auto;
-max-width: 1200px;
+max-width: 1440px;
 }
 /* .careers21 img{
 height: 550px;
@@ -102,8 +102,8 @@ color: white;
 #bus{
     position: absolute;
     background-color: #F58A07;
-    height: 100px;
-    width: 100px;
+    height: 97px;
+    width: 95px;
     border-radius: 30px;
     mix-blend-mode: multiply;
     margin: 200px -50px;
@@ -120,35 +120,52 @@ color: white;
 #dig{
     position: absolute;
     background-color: #F58A07;
-    height: 100px;
-    width: 100px;
+    height: 97px;
+    width: 95px;
     border-radius: 30px;
     mix-blend-mode: multiply;
     margin: 200px 570px;
     color: white;
 }
+.careers22{
+margin-top: 80px;
+margin-left: 50px;
+}
 .careers22 h1{
-font-size: 4rem;
+    width: 410px;
+    height: 56px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.03em;
+    color: #0D1317; 
 }
 .careers22 p{
-margin: 30px 0px;
+    width: 583px;
+    height: 90px;   
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
 }
 
 .careers3{
 display: flex;
 height: 550px;
-width: 80%;
+width: 85%;
 margin: 150px auto;
-max-width: 1200px;
+max-width: 1440px;
 }
 .careers31{
 display: flex;
 align-items: center;
 justify-content: center;
-/* line-height: 60px; */
+margin-right: 50px;
 }
 .careers31 h1{
-font-size: 4rem;
+font-size: 48px;
 }
 .careers31 p{
 margin: 30px 0px;
@@ -162,9 +179,9 @@ border-radius: 50px;
 .careers4{
 display: flex;
 height: 550px;
-width: 80%;
+width: 85%;
 margin: 150px auto;
-max-width: 1200px;
+max-width: 1440px;
 }
 /* .careers41 img{
 height: 550px;
@@ -181,8 +198,8 @@ border-radius: 50px;
 #ris{
     position: absolute;
     background-color: #F58A07;
-    height: 100px;
-    width: 100px;
+    height: 98px;
+    width: 95px;
     border-radius: 30px;
     mix-blend-mode: multiply;
     margin: 200px -50px;
@@ -196,7 +213,7 @@ justify-content: center;
 margin: 0px 50px;
 }
 .careers42 h1{
-font-size: 4rem;
+font-size: 48px;
 }
 .careers42 p{
 margin: 30px 0px;
@@ -205,19 +222,19 @@ margin: 30px 0px;
 .careers5{
 display: flex;
 height: 550px;
-width: 80%;
+width: 85%;
 margin: 150px auto;
-max-width: 1200px;
+max-width: 1440px;
 }
 .careers51{
 display: flex;
 align-items: center;
 justify-content: center;
-margin-top: 0px 50px;
-/* line-height: 60px; */
+margin: 0px 50px;
+
 }
 .careers51 h1{
-font-size: 4rem;
+font-size: 48px;
 }
 .careers51 p{
 margin: 30px 0px;
@@ -232,8 +249,8 @@ margin: 30px 0px;
 #art{
     position: absolute;
     background-color: #F58A07;
-    height: 100px;
-    width: 100px;
+    height: 98px;
+    width: 95px;
     border-radius: 30px;
     mix-blend-mode: multiply;
     margin: 200px 570px;
@@ -243,9 +260,9 @@ margin: 30px 0px;
 .careers6{
 display: flex;
 height: 550px;
-width: 80%;
+width: 85%;
 margin: 150px auto;
-max-width: 1200px;
+max-width: 1440px;
 }
 .sma{
     background-image: url(/images/Image.png);
@@ -257,8 +274,8 @@ max-width: 1200px;
 #sma{
     position: absolute;
     background-color: #F58A07;
-    height: 100px;
-    width: 100px;
+    height: 97px;
+    width: 95px;
     border-radius: 30px;
     mix-blend-mode: multiply;
     margin: 200px -50px;
@@ -272,79 +289,111 @@ justify-content: center;
 margin: 0px 50px;
 }
 .careers62 h1{
-font-size: 4rem;
+font-size: 48px;
 }
 .careers62 p{
 margin: 30px 0px;
 }
 
-.careers7{
+.dolo{
     display: flex;
-    width: 80%;
+    width: 90%;
     margin: 100px auto;
     height: 501px;
     font-weight: 200;
-    max-width: 1200px;
+    max-width: 1440px;
 }
-.careers71{
+.dolo1{
 display: flex;
 flex-direction: column;
 align-items: center;
 align-content: space-around;
-max-width: 500px; 
+max-width: 900px; 
+
 }
-.careers71 h1{
-    font-size: 48px;
+.dolo1 h1{
+    width: 550px;
+height: 112px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+letter-spacing: -0.03em;
+text-transform: capitalize;
+color: #0D1317;
+margin-top: 50px;
 }
-.careers71 p{
+.dolo1 p{
+width: 550px;
+height: 90px;
+font-style: normal;
+font-weight: 500;
 font-size: 18px;
-margin-top: 60px;
-margin-bottom:  30px; 
+line-height: 30px;
+color: #5B5B5B;
+margin-top: 40px;
 }
-.careers712{
+.dolo12{
 display: flex;
 margin-top: 30px;
-}
-.careers71 h3{
-color: blue;
-margin: 10px 10px;
-}
-.careers71 a{
-color: #f58a07;
-margin: 10px 10px;
-}
-.careers712 img{
+justify-content: flex-start;
+left: 0;
+margin-top: 40px;
+margin-left: -450px;
 height: 80px;
 width: 80px;
 border-radius: 50%;
 }
+.dolo1 h3{
+width: 145px;
+height: 41px;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 171%;
+color: #063255;
+}
+.dolo1 a{
+width: 129px;
+height: 31px;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 171%;
+color: #F58A07;
 
-.careers72{
+}
+
+.dolo2{
 display: flex;
 align-items: flex-end;
 height: 501px;
-width: 720px;
+width: 80%;
 background-image: url(../images/video-image.png);
 margin-left: 100px;
 background-repeat: no-repeat;
+border-radius: 20px;
 }
 
-.careers72 img{
+.dolo2 img{
 height: 15px;
 width: 15px;
 background-color: white;
+background-repeat: no-repeat;
 padding: 20px;
 border-radius: 50%;
 margin-bottom: 20px;
 margin-left: 20px;
 }
 
-.careers72 p{
+.dolo2 p{
 color: white;
 margin-bottom: 40px;
 font-size: 18px;
 margin-left:20px;
 } 
+
 
 footer{
     height: 450px;
@@ -413,6 +462,7 @@ border-radius: 31px;
 .social{
     display: flex;
     justify-content: space-around;
+    width: 200px;
 }
 #h5{
     position: absolute;
