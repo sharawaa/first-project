@@ -169,7 +169,7 @@ img{
        
     }
     .gurv{
-        height: 50vh;
+        height: 40vh;
         width: 100%;
         background-color: rgb(239, 247,254);
     }
@@ -231,7 +231,7 @@ img{
         display: flex;
         width: 80%;
         margin: 50px auto;
-        max-width: 1000px;
+        max-width: 1300px;
     }
     .durv1{
         margin-top: 50px;
@@ -266,12 +266,11 @@ img{
             border-radius: 40px;
         }
     .tav-w{
-        /* position: absolute;
-        right: 0; */
+    position: relative;
     width: 80%;
     height: 700px;
-    margin: 50px auto;
-    max-width: 1000px;
+    margin: 30px auto;
+    max-width: 1300px;
 
     }
     .tavz{
@@ -445,7 +444,7 @@ img{
     } 
 
     .naim{
-    height: 65vh;
+    height: 50vh;
     background-color: rgb(223, 233, 244);
         
     }
