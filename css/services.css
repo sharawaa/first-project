@@ -34,13 +34,12 @@ header nav ul a{
 display: flex;
 height: 550px;
 width: 80%;
-max-width: 600px;
-/* margin: 0px auto; */
-margin-top: 30px;
-margin-left: 150px;
+max-width: 1200px;
+margin: 50px auto;
 }
 .careers11{
 display: flex;
+flex-direction: column;
 align-items: center;
 justify-content: center;
 /* line-height: 60px; */
@@ -52,54 +51,79 @@ font-size: 4rem;
 margin: 30px 0px;
 }
 .careers11 a{
-height: 17px;
-width: 107px;
+    position: relative;
+padding: 40px;
 background-color: orange;
 color: white;
 text-decoration: none;
 padding: 10px;
 border-radius: 20px;
 }
-.careers12{
-    background-color: #F58A07; 
-    background-blend-mode: multiply;
-}
-.careers12 img{
-    position: absolute;
-    background-color: #F58A07;
+.web{
     background-image: url(/images/Image\ \(6\).png);
-height: 550px;
+    height: 550px;
 width: 620px;
 border-radius: 50px;
-background-blend-mode: multiply;
+color: white;
 }
-.box1{
-position: absolute;
-background-color: orange;
-width: 180px;
-height: 550px;
-border-bottom-left-radius: 50px;
-border-top-left-radius: 50px;
+#web{
+    position: absolute;
+    background-color: #F58A07;
+    height: 550px;
+    width: 100px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    mix-blend-mode: multiply;
+    color: white;
+}
 
-}
 
 .careers2{
 display: flex;
 height: 550px;
 width: 80%;
 margin: 150px auto;
+max-width: 1200px;
 }
-.careers21 img{
+/* .careers21 img{
 height: 550px;
 width: 620px;
 border-radius: 50px;
+} */
+.bus{
+    background-image: url(/images/Image\ \(7\).png);
+    height: 550px;
+width: 620px;
+border-radius: 50px;
+color: white;
 }
-.careers22{
-display: flex;
-align-items: center;
-justify-content: center;
-margin: 0px 50px;
-/* line-height: 60px; */
+#bus{
+    position: absolute;
+    background-color: #F58A07;
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    mix-blend-mode: multiply;
+    margin: 200px -50px;
+    color: white;
+}
+
+.dig{
+    background-image: url(/images/Image\ \(8\).png);
+    height: 550px;
+    width: 620px;
+    border-radius: 50px;
+    color: white;
+}
+#dig{
+    position: absolute;
+    background-color: #F58A07;
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    mix-blend-mode: multiply;
+    margin: 200px 570px;
+    color: white;
 }
 .careers22 h1{
 font-size: 4rem;
@@ -113,6 +137,7 @@ display: flex;
 height: 550px;
 width: 80%;
 margin: 150px auto;
+max-width: 1200px;
 }
 .careers31{
 display: flex;
@@ -137,11 +162,29 @@ display: flex;
 height: 550px;
 width: 80%;
 margin: 150px auto;
+max-width: 1200px;
 }
-.careers41 img{
+/* .careers41 img{
 height: 550px;
 width: 620px;
 border-radius: 50px;
+} */
+.ris{
+    background-image: url(/images/Image\ \(9\).png);
+    height: 550px;
+    width: 620px;
+    border-radius: 50px;
+    color: white;
+}
+#ris{
+    position: absolute;
+    background-color: #F58A07;
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    mix-blend-mode: multiply;
+    margin: 200px -50px;
+    color: white;
 }
 .careers42{
 display: flex;
@@ -162,6 +205,7 @@ display: flex;
 height: 550px;
 width: 80%;
 margin: 150px auto;
+max-width: 1200px;
 }
 .careers51{
 display: flex;
@@ -176,10 +220,22 @@ font-size: 4rem;
 .careers51 p{
 margin: 30px 0px;
 }
-.careers52 img{
-height: 550px;
-width: 620px;
-border-radius: 50px;
+.art{
+    background-image: url(/images/Image\ \(10\).png);
+    height: 550px;
+    width: 620px;
+    border-radius: 50px;
+    color: white;
+}
+#art{
+    position: absolute;
+    background-color: #F58A07;
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    mix-blend-mode: multiply;
+    margin: 200px 570px;
+    color: white;
 }
 
 .careers6{
@@ -187,11 +243,24 @@ display: flex;
 height: 550px;
 width: 80%;
 margin: 150px auto;
+max-width: 1200px;
 }
-.careers61 img{
-height: 550px;
-width: 620px;
-border-radius: 50px;
+.sma{
+    background-image: url(/images/Image.png);
+    height: 550px;
+    width: 620px;
+    border-radius: 50px;
+    color: white;
+}
+#sma{
+    position: absolute;
+    background-color: #F58A07;
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    mix-blend-mode: multiply;
+    margin: 200px -50px;
+    color: white;
 }
 .careers62{
 display: flex;
@@ -213,7 +282,7 @@ margin: 30px 0px;
     margin: 100px auto;
     height: 501px;
     font-weight: 200;
-    max-width: 1500px;
+    max-width: 1200px;
 }
 .careers71{
 display: flex;
@@ -255,6 +324,7 @@ height: 501px;
 width: 720px;
 background-image: url(../images/video-image.png);
 margin-left: 100px;
+background-repeat: no-repeat;
 }
 
 .careers72 img{
@@ -282,7 +352,7 @@ footer{
     .fbox{
         height: 200px;
         width: 90%;
-        margin: 50px auto;
+        margin: 0px auto;
     }
 .top{
     width: 80%;
@@ -290,7 +360,7 @@ footer{
     justify-content: space-around;
     color: white;
     line-height: 40px;
-    margin: 10px 40px;
+    margin: 0px 40px;
     padding: 40px 40px;
      }
 #h1{
@@ -298,17 +368,9 @@ footer{
     font-weight: 200;
     margin: 30px 0px;
 }
-/* #logo{
-    position: relative;
-    display: flex;
-    z-index: 1;
-
-} */
 #logo2{
-    color: gray;
-    font-weight: 900;
-    font-size: 2.5rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    
 }
 #com{
 padding: 30px;
@@ -346,13 +408,9 @@ border-radius: 31px;
     /* max-width: 1200px; */
     margin: 0px auto;
 }
-.social i{
-margin-right: 1rem;
-border: 2px #fff solid;
-width: 20px;
-height: 20px;
-padding: 0.5rem;
-color: white;
+.social{
+    display: flex;
+    justify-content: space-around;
 }
 #h5{
     position: absolute;
@@ -375,4 +433,3 @@ color: white;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
-
