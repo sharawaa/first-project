@@ -21,6 +21,7 @@ header nav ul div{
 }
 header nav ul section{
     display: flex;
+    align-items: center;
 }
 header nav ul a{
     margin: 50px 10px;
