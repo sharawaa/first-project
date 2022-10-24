@@ -169,3 +169,22 @@ color: white;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
+/* {
+    position: relative;
+    animation-name: animate1;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+@keyframes animate1 {
+    from{
+        top: 0;
+        height: 100px;
+        width: 200px;
+    }
+    to {
+        width:800px ;
+        height: 600px;
+    } */

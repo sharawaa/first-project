@@ -58,6 +58,11 @@ header nav ul a{
     border-radius: 20px;
     margin: 10px 0px;
 }
+.cn12 :last-child{
+    height: 20px;
+    width: 500px;
+    padding: 50px;
+}
 /* #in4{
     padding: 30px;
 } */
