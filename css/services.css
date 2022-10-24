@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 header nav ul {
     display: flex;
@@ -19,6 +20,7 @@ header nav ul div{
 }
 header nav ul section{
     display: flex;
+    align-items: center;
 }
 header nav ul a{
     margin: 50px 10px;
