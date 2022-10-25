@@ -10,13 +10,11 @@ header nav ul {
     background-color: whitesmoke;
     height: 92px;
     align-items: center;
-    
 }
 header nav ul div{
     display: flex;
     align-content: flex-start;
-    margin: 50px 20px;
-   
+    margin: 50px 20px;  
 }
 header nav ul section{
     display: flex;
@@ -33,40 +31,39 @@ header nav ul a{
     border-radius: 10px;
 }
 .careers1{
-display: flex;
-height: 550px;
-width: 85%;
-max-width: 1440px;
-margin: 50px auto;
+    display: flex;
+    height: 550px;
+    width: 85%;
+    max-width: 1440px;
+    margin: 50px auto;
 }
 .careers11{
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-/* line-height: 60px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .careers11 h1{
-font-size: 48px;
+    font-size: 48px;
 }
 .careers11 p{
-margin: 30px 0px;
+    margin: 30px 0px;
 }
 .careers11 a{
     position: relative;
-padding: 40px;
-background-color: orange;
-color: white;
-text-decoration: none;
-padding: 10px;
-border-radius: 20px;
+    padding: 40px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
 }
 .web{
     background-image: url(/images/Image\ \(6\).png);
     height: 550px;
-width: 620px;
-border-radius: 50px;
-color: white;
+    width: 620px;
+    border-radius: 50px;
+    color: white;
 }
 #web{
     position: absolute;
@@ -81,23 +78,18 @@ color: white;
 
 
 .careers2{
-display: flex;
-height: 550px;
-width: 85%;
-margin: 150px auto;
-max-width: 1440px;
+    display: flex;
+    height: 550px;
+    width: 85%;
+    margin: 150px auto;
+    max-width: 1440px;
 }
-/* .careers21 img{
-height: 550px;
-width: 620px;
-border-radius: 50px;
-} */
 .bus{
     background-image: url(/images/Image\ \(7\).png);
     height: 550px;
-width: 620px;
-border-radius: 50px;
-color: white;
+    width: 620px;
+    border-radius: 50px;
+    color: white;
 }
 #bus{
     position: absolute;
@@ -128,8 +120,8 @@ color: white;
     color: white;
 }
 .careers22{
-margin-top: 80px;
-margin-left: 50px;
+    margin-top: 80px;
+    margin-left: 50px;
 }
 .careers22 h1{
     width: 410px;
@@ -152,42 +144,37 @@ margin-left: 50px;
 }
 
 .careers3{
-display: flex;
-height: 550px;
-width: 85%;
-margin: 150px auto;
-max-width: 1440px;
+    display: flex;
+    height: 550px;
+    width: 85%;
+    margin: 150px auto;
+    max-width: 1440px;
 }
 .careers31{
-display: flex;
-align-items: center;
-justify-content: center;
-margin-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
 }
 .careers31 h1{
-font-size: 48px;
+    font-size: 48px;
 }
 .careers31 p{
-margin: 30px 0px;
+    margin: 30px 0px;
 }
 .careers32 img{
-height: 550px;
-width: 620px;
-border-radius: 50px;
+    height: 550px;
+    width: 620px;
+    border-radius: 50px;
 }
 
 .careers4{
-display: flex;
-height: 550px;
-width: 85%;
-margin: 150px auto;
-max-width: 1440px;
+    display: flex;
+    height: 550px;
+    width: 85%;
+    margin: 150px auto;
+    max-width: 1440px;
 }
-/* .careers41 img{
-height: 550px;
-width: 620px;
-border-radius: 50px;
-} */
 .ris{
     background-image: url(/images/Image\ \(9\).png);
     height: 550px;
@@ -206,38 +193,36 @@ border-radius: 50px;
     color: white;
 }
 .careers42{
-display: flex;
-align-items: center;
-justify-content: center;
-/* line-height: 60px; */
-margin: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+        margin: 0px 50px;
 }
 .careers42 h1{
-font-size: 48px;
+    font-size: 48px;
 }
 .careers42 p{
-margin: 30px 0px;
+    margin: 30px 0px;
 }
-
 .careers5{
-display: flex;
-height: 550px;
-width: 85%;
-margin: 150px auto;
-max-width: 1440px;
+    display: flex;
+    height: 550px;
+    width: 85%;
+    margin: 150px auto;
+    max-width: 1440px;
 }
 .careers51{
-display: flex;
-align-items: center;
-justify-content: center;
-margin: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 50px;
 
 }
 .careers51 h1{
-font-size: 48px;
+    font-size: 48px;
 }
 .careers51 p{
-margin: 30px 0px;
+    margin: 30px 0px;
 }
 .art{
     background-image: url(/images/Image\ \(10\).png);
@@ -258,11 +243,11 @@ margin: 30px 0px;
 }
 
 .careers6{
-display: flex;
-height: 550px;
-width: 85%;
-margin: 150px auto;
-max-width: 1440px;
+    display: flex;
+    height: 550px;
+    width: 85%;
+    margin: 150px auto;
+    max-width: 1440px;
 }
 .sma{
     background-image: url(/images/Image.png);
@@ -282,17 +267,17 @@ max-width: 1440px;
     color: white;
 }
 .careers62{
-display: flex;
-align-items: center;
-justify-content: center;
-/* line-height: 60px; */
-margin: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* line-height: 60px; */
+    margin: 0px 50px;
 }
 .careers62 h1{
-font-size: 48px;
+    font-size: 48px;
 }
 .careers62 p{
-margin: 30px 0px;
+    margin: 30px 0px;
 }
 
 .dolo{
@@ -304,106 +289,97 @@ margin: 30px 0px;
     max-width: 1440px;
 }
 .dolo1{
-display: flex;
-flex-direction: column;
-align-items: center;
-align-content: space-around;
-max-width: 900px; 
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-around;
+    max-width: 900px; 
 }
 .dolo1 h1{
     width: 550px;
-height: 112px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 48px;
-line-height: 56px;
-letter-spacing: -0.03em;
-text-transform: capitalize;
-color: #0D1317;
-margin-top: 50px;
+    height: 112px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.03em;
+    text-transform: capitalize;
+    color: #0D1317;
+    margin-top: 50px;
 }
 .dolo1 p{
-width: 550px;
-height: 90px;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 30px;
-color: #5B5B5B;
-margin-top: 40px;
+    width: 550px;
+    height: 90px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+    margin-top: 40px;
 }
 .dolo12{
-display: flex;
-margin-top: 30px;
-justify-content: flex-start;
-left: 0;
-margin-top: 40px;
-margin-left: -450px;
-height: 80px;
-width: 80px;
-border-radius: 50%;
+    display: flex;
+    margin-top: 30px;
+    justify-content: flex-start;
+    left: 0;
+    margin-top: 40px;
+    margin-left: -450px;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
 }
 .dolo1 h3{
-width: 145px;
-height: 41px;
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 171%;
-color: #063255;
+    width: 145px;
+    height: 41px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 171%;
+    color: #063255;
 }
 .dolo1 a{
-width: 129px;
-height: 31px;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 171%;
-color: #F58A07;
-
+    width: 129px;
+    height: 31px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 171%;
+    color: #F58A07;
+}.dolo2{
+    display: flex;
+    align-items: flex-end;
+    height: 501px;
+    width: 80%;
+    background-image: url(../images/video-image.png);
+    margin-left: 100px;
+    background-repeat: no-repeat;
+    border-radius: 20px;
 }
-
-.dolo2{
-display: flex;
-align-items: flex-end;
-height: 501px;
-width: 80%;
-background-image: url(../images/video-image.png);
-margin-left: 100px;
-background-repeat: no-repeat;
-border-radius: 20px;
-}
-
 .dolo2 img{
-height: 15px;
-width: 15px;
-background-color: white;
-background-repeat: no-repeat;
-padding: 20px;
-border-radius: 50%;
-margin-bottom: 20px;
-margin-left: 20px;
-}
-
-.dolo2 p{
-color: white;
-margin-bottom: 40px;
-font-size: 18px;
-margin-left:20px;
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    background-repeat: no-repeat;
+    padding: 20px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    }.dolo2 p{
+    color: white;
+    margin-bottom: 40px;
+    font-size: 18px;
+    margin-left:20px;
 } 
-
-
 footer{
     height: 450px;
     background-color:rgb(20, 49, 82);
     position: relative;
     }
-    .fbox{
-        height: 200px;
-        width: 90%;
-        margin: 0px auto;
+.fbox{
+    height: 200px;
+    width: 90%;
+    margin: 0px auto;
     }
 .top{
     width: 80%;
@@ -413,57 +389,56 @@ footer{
     line-height: 40px;
     margin: 0px 40px;
     padding: 40px 40px;
-     }
+    }
 #h1{
     font-size: 2rem;
     font-weight: 200;
     margin: 30px 0px;
-}
+    }
 #logo2{
     margin-top: 30px;
-    
-}
+
+    }
 #com{
-padding: 30px;
-}
+    padding: 30px;
+    }
 #con{
-padding: 30px;
-}
+    padding: 30px;
+    }
 #join{
     padding: 30px;
-}
+    }
 #join input{
     position: relative;
-background-color: white;
-color: gray;
-width: 222px;
-height: 19px;
-border-radius: 31px;
-padding: 10px;
-margin: 30px 0px;
-}
+    background-color: white;
+    color: gray;
+    width: 222px;
+    height: 19px;
+    border-radius: 31px;
+    padding: 10px;
+    margin: 30px 0px;
+    }
 #join button{
-background-color: #F58A07;
-color: white;
-text-decoration: none;
-height: 40px;
-width: 106px;
-border-radius: 31px;
-}
+    background-color: #F58A07;
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    width: 106px;
+    border-radius: 31px;
+    }
 .bottom{
     display: flex;
     align-content: flex-end;
     justify-content: space-between;
     color: white;
     width: 70%;
-    /* max-width: 1200px; */
     margin: 0px auto;
-}
+    }
 .social{
     display: flex;
     justify-content: space-around;
     width: 200px;
-}
+    }
 #h5{
     position: absolute;
     height: 200px;
@@ -472,9 +447,7 @@ border-radius: 31px;
     position: absolute;
     bottom: 0;
     border-top-right-radius:  20px; ;
-    
-
-}
+    }
 #h6{
     position: absolute;
     height: 300px;
@@ -484,4 +457,4 @@ border-radius: 31px;
     top: 40px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-}
+    }

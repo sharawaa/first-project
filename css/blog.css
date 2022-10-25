@@ -55,15 +55,15 @@ header nav ul a{
 
 .neg1 h1{
     width: 527px;
-height: 216px;
-font-style: normal;
-font-weight: 600;
-font-size: 64px;
-line-height: 72px;
-letter-spacing: -0.03em;
-color: #1D3444;
-margin-top: 30px;
-}
+    height: 216px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+    color: #1D3444;
+    margin-top: 30px;
+    }
 
 .neg1 p{
     width: 559px;
@@ -111,15 +111,15 @@ margin-top: 30px;
 }
 .hoyr1 h1{
     width: 453px;
-height: 56px;
-font-style: normal;
-font-weight: 600;
-font-size: 48px;
-line-height: 56px;
-letter-spacing: -0.03em;
-text-transform: capitalize;
-color: #0D1317;
-margin-left: -20px;
+    height: 56px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.03em;
+    text-transform: capitalize;
+    color: #0D1317;
+    margin-left: -20px;
 }
 .hoyr2{
     display: flex;

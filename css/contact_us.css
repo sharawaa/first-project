@@ -9,14 +9,12 @@ header nav ul {
     flex-wrap: nowrap;
     background-color: whitesmoke;
     height: 92px;
-    align-items: center;
-    
+    align-items: center;  
 }
 header nav ul div{
     display: flex;
     align-content: flex-start;
-    margin: 50px 20px;
-   
+    margin: 50px 20px; 
 }
 header nav ul section{
     display: flex;
@@ -37,13 +35,11 @@ header nav ul a{
     width: 70%;
     margin: 20px auto;
     flex: 1;
-    /* max-width: 1200px; */
 }
 .contact1{
     display: flex;
     flex-direction: column;
     line-height: 50px;
-    /* margin: 0px 60px; */
 }
 .cn11 h1{
     font-size: 2rem;
@@ -64,23 +60,18 @@ header nav ul a{
     width: 500px;
     padding: 50px;
 }
-/* #in4{
-    padding: 30px;
-} */
 .cn13 button{
-        background-color: #F58A07;
-        color: white;
-        text-decoration: none;
-        height: 40px;
-        width: 106px;
-        border-radius: 31px;
-        margin-top: 40px;
+    background-color: #F58A07;
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    width: 106px;
+    border-radius: 31px;
+    margin-top: 40px;
         }
-
 .contact2{
     /* margin: 0px 60px; */
 }
-
 .cn21{
     display: flex;
     margin: 0px 40px;
@@ -93,16 +84,15 @@ header nav ul a{
     margin-left: 40px;
 }
 
-
 footer{
     height: 450px;
     background-color:rgb(20, 49, 82);
     position: relative;
     }
-    .fbox{
-        height: 200px;
-        width: 90%;
-        margin: 0px auto;
+.fbox{
+    height: 200px;
+    width: 90%;
+    margin: 0px auto;
     }
 .top{
     width: 80%;
@@ -112,43 +102,43 @@ footer{
     line-height: 40px;
     margin: 0px 40px;
     padding: 40px 40px;
-     }
+}
 #h1{
     font-size: 2rem;
     font-weight: 200;
     margin: 30px 0px;
-}
+    }
 #logo2{
     margin-top: 30px;
-    
-}
+
+    }
 #com{
-padding: 30px;
-}
+    padding: 30px;
+    }
 #con{
-padding: 30px;
-}
+    padding: 30px;
+    }
 #join{
     padding: 30px;
-}
+    }
 #join input{
     position: relative;
-background-color: white;
-color: gray;
-width: 222px;
-height: 19px;
-border-radius: 31px;
-padding: 10px;
-margin: 30px 0px;
-}
+    background-color: white;
+    color: gray;
+    width: 222px;
+    height: 19px;
+    border-radius: 31px;
+    padding: 10px;
+    margin: 30px 0px;
+    }
 #join button{
-background-color: #F58A07;
-color: white;
-text-decoration: none;
-height: 40px;
-width: 106px;
-border-radius: 31px;
-}
+    background-color: #F58A07;
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    width: 106px;
+    border-radius: 31px;
+    }
 .bottom{
     display: flex;
     align-content: flex-end;
@@ -157,12 +147,12 @@ border-radius: 31px;
     width: 70%;
     /* max-width: 1200px; */
     margin: 0px auto;
-}
+    }
 .social{
     display: flex;
     justify-content: space-around;
     width: 200px;
-}
+    }
 #h5{
     position: absolute;
     height: 200px;
@@ -171,9 +161,7 @@ border-radius: 31px;
     position: absolute;
     bottom: 0;
     border-top-right-radius:  20px; ;
-    
-
-}
+    }
 #h6{
     position: absolute;
     height: 300px;
@@ -183,4 +171,4 @@ border-radius: 31px;
     top: 40px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-}
+    }
